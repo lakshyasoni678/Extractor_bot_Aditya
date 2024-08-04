@@ -1,4 +1,4 @@
-# Streams Extractor Bot
+### Streams Extractor Bot
 
 <p align="center">
   <a href="https://www.python.org">
@@ -28,10 +28,10 @@
 #### This Bot can extract audios and subtitles from video files.
 #### Send any valid video file and the bot shows you available streams in it that can be extracted!!
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+### Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
 
 
-## Installation
+### Installation
 
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Raj933955/Streams-Extractor/tree/main)
@@ -45,7 +45,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
-## Configs
+### Configs
 
 * BOT_TOKEN  - Get bot token from @BotFather
 
@@ -55,33 +55,33 @@ python3 main.py
 
 * AUTH_USERS    - Get from @MissRose_bot by /id command
 
-## Credits
+### Credits
 
 [![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
 
 
-## Deploy To Heroku<p align="center">
+### Deploy To Heroku<p align="center">
 
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudoR2spr/text-leech-bot)<p align="center">
 
 
-## Deploy To Google Colab
+### Deploy To Google Colab
 
 <a href="https://colab.research.google.com/github/SudoR2spr/text-leech-bot/blob/main/.github/AshutoshGoswami24" target="_blank">
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
 
-## Deploy To Koyeb
+### Deploy To Koyeb
               
 <a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/SudoR2spr/text-leech-bot&branch=heroku&name=textleechbot" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
 
-## Deploy To Render                  
+### Deploy To Render                  
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://render.com/deploy?repo=https://github.com/SudoR2spr/text-leech-bot/tree/heroku)
 
-## vars.py [vars.py](https://github.com/SudoR2spr/txt-leech-bot/blob/main/modules/vars.py)
+### vars.py [vars.py](https://github.com/SudoR2spr/txt-leech-bot/blob/main/modules/vars.py)
 
 * BOT_TOKEN  - 7112692835:AAHafRzWYXfl8N_pqvif5HM9mBasYGhAqKk
 
@@ -92,11 +92,11 @@ python3 main.py
 * PORT - 8080
 
 
-## Botfather Commands
+### Botfather Commands
 start - 🦋 Bot Alive Cheking
 stop - 🛑 Upload stop
 uplod - 🎬 Txt file upload
 
-## Connect with me
+### Connect with me
 
 ➳ᴹᴿ✿ 𝐆𝐣_𝐦𝐚𝐟𝐢𝐚『ᏫᎮ』
