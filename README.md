@@ -69,3 +69,7 @@ python3 main.py
               
 <a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/Adityarathod123/Extractor_bot_Aditya&branch=heroku&name=Extractor_bot_Aditya" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
+
+## Connect with me
+
+➳ᴹᴿ✿ 𝐆𝐣_𝐦𝐚𝐟𝐢𝐚『ᏫᎮ』
